@@ -5,7 +5,7 @@
 - High school Diploma, Phan Boi Chau specialized High School (in *Mathematics*) (2019).
 
 #### * Orientation
-- Interested in *Mathematics & Computer Science*, *Computational Science* and others *which are the combination of Mathematics and Computer Science*.
+- Interested in ***Mathematics & Computer Science***, ***Computational Science*** and others ***which are the combination of Mathematics and Computer Science***.
 
 #### * Honors and Awards:
 - Attended *Vietnam Mathematics Olympiad for high school students* (2019).
