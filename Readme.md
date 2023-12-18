@@ -1,9 +1,4 @@
-### Anh-Cuong Pham
+### Hello, my name is Cường 😁
 
-#### * Education
-- Bachelor in Information Technology (Honors Program), VNU University of Engineering and Technology (expected 2023).
-- High school Diploma, Phan Boi Chau specialized High School (in *Mathematics*) (2019).
-
-#### * Contact:
-- **Gmail**: phamanhcuongvna2511 [at] gmail [dot] com
-- **VNU email**: 19020038 [at] vnu [dot] edu [dot] vn
+I am a fresh graduate from VNU University of Engineering and Technology, and now working as a Data Scientist at Viettel Networks Corporation.
+Getting to know more about me through my [**Portfolio Page**](https://pacman-ctm.github.io/) or my [**Linkedin**](https://www.linkedin.com/in/anhcuong-pham/).
