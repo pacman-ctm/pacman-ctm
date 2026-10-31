@@ -2,6 +2,10 @@
 
 I am a Machine Learning Research Engineer at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). I obtained my MS in Machine Learning from MBZUAI in May 2026.
 
-My research focuses broadly on **efficient and trustworthy deep learning**, with prior work in *continual learning*, *low-rank and parameter-efficient fine-tuning*, *federated learning*, and *optimization*. Currently, I am working on *uncertainty-aware LoRA fine-tuning* across multiple downstream tasks, with broader interests in *misalignment under LLM adaptation*.
+My research interests focus on **efficient and trustworthy deep learning**, particularly in :
+- (i) training and fine-tuning models efficiently
+- (ii) assessing the reliability of models after adaptation for different downstream tasks.
 
-If you want to find more information about me, please visit my [**Website**](https://pacman-ctm.github.io/) or my [**Linkedin**](https://www.linkedin.com/in/anhcuong-pham/).
+My long-term goal is to **learn latent representations that can be generalized across different applications**.
+
+Please visit my [**Website**](https://pacman-ctm.github.io/) or my [**Linkedin**](https://www.linkedin.com/in/anhcuong-pham/) for more information.
